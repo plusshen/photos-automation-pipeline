@@ -9,3 +9,5 @@ An automated pipeline connecting LINE Messaging API, Google Workspace, and OpenA
 
 ## 📁 Repository Contents
 * `blueprint.json`: Complete Make.com Scenario export file. Import this into Make to replicate the pipeline architecture.
+* <img width="1283" height="482" alt="截圖 2026-08-28 下午1 12 43" src="https://github.com/user-attachments/assets/91c61a98-8e58-4ce3-8e4e-6dd7f7c5a84c" />
+
