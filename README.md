@@ -1,4 +1,4 @@
-#LINE-Photo-Archiver-AI
+# 📸 LINE-Photo-Archiver-AI
 
 An automated pipeline connecting LINE Messaging API, Google Workspace, and OpenAI Vision to streamline NPO event tracking and photo assessment.
 
@@ -42,5 +42,5 @@ In non-profit organization (NPO) field operations, staff frequently send event p
 ---
 
 ## 📁 Repository Contents (專案檔案說明)
-* `blueprint.json`: Complete Make.com Scenario export file. Import this directly into Make.
-* `README.md`: System documentation and setup guide.
+* `blueprint.json`: Complete Make.com Scenario export file. Import this file directly into Make to replicate the pipeline architecture.
+* `README.md`: Project documentation including problem statement, features, architecture, and setup guide.
