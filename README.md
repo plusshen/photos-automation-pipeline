@@ -1,4 +1,4 @@
-# LINE Event Photo Review Pipeline
+#LINE-Photo-Archiver-AI
 
 An automated pipeline connecting LINE Messaging API, Google Workspace, and OpenAI Vision to streamline NPO event tracking and photo assessment.
 
